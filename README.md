@@ -1,4 +1,4 @@
-# Predict-Subscriptions-of-a-music-listening-website
+# Predict-adopters-of-a-music-listening-website
 Predict a music-listening social networking website, follows the “freemium”
 business model. The website offers basic services for free, and provides a number of additional premium capabilities
 for a monthly subscription fee. This project is focused on predicting which people would be likely to convert from free
