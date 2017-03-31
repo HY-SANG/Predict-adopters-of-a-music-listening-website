@@ -30,3 +30,5 @@ Here is a brief description of the attributes (attribute name/type/explanation):
 16. tenure / integer / number of months since the user has registered on the website.
 17. There are also a number of attributes with the following names: delta_<attr-name>, where <attr-name> is one of the attributes mentioned in the above list. Such attributes refer not to the overall number, but the change to the corresponding number over the 3- month period before the marketing campaign. For example, consider attribute delta_friend_cnt. If, for some user, friend_cnt = 50, and delta_friend_cnt = –5, it means that the user had 50 friends at the time of the previous marketing campaign, but this number reduced by 5
 during the 3 months before the campaign (i.e., user had 55 friends 3 months ago).
+
+Various Machine Learning models for classification like Logistic Regression, Gradient Boosted Trees, K-nn, Bagged Decision Trees, Extra Trees with parameter tuning were implemented
